@@ -1,0 +1,11 @@
+.unvisited {
+    border: 10px solid green;
+    max-width: 400px;
+    margin: 10px auto;
+}
+
+.visited {
+    border: 10px dashed red;
+    max-width: 400px;
+    margin: 10px auto;
+}

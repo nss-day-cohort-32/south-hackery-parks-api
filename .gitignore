@@ -1,0 +1,4 @@
+src/lib/node_modules
+.DS_Store
+.vscode
+src/scripts/key.js
